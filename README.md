@@ -5,9 +5,9 @@ The code and the data for the paper `Decreasing the uncertainty in the compariso
 ### Folder and File Descriptions
 
 - **`data/`**: This folder contains the raw data files used for the analysis.
-  - **`HDX_1.csv`**: Mass spectrometry data for HDX sample 1.
-  - **`HDX_2.csv`**: Mass spectrometry data for HDX sample 2.
-  - **`Test-samples.csv`**: A test sample file with mass spectrometry data that is used to validate the HDX calculations.
+  - **`HDX_1.csv`**: Mass spectrometry HDX data for sample 1.
+  - **`HDX_2.csv`**: Mass spectrometry HDX data for sample 2.
+  - **`Test-samples.csv`**: A test sample file with formulae lists used for the HDX calculations.
 
 - **`notebooks/`**: Contains the Jupyter notebook used for processing the data and performing the HDX series calculations.
   - **`HDX_project_GIT.ipynb`**: The Jupyter notebook where the HDX calculations are performed, including data processing, analysis, and results generation.
